@@ -33,3 +33,11 @@ body {
 footer {
     margin: 50px 0;
 }
+
+#Home_Page {
+  display: block;
+}
+
+#Team_Page {
+  display: none;
+}
